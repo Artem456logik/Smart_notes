@@ -1,4 +1,4 @@
-# Form implementation generated from reading ui file 'ui.ui'
+# Form implementation generated from reading ui file 'c:\Users\Kompik\Desktop\nd_12_Artem_Mykhailuk\Smart_notes\ui.ui'
 #
 # Created by: PyQt6 UI code generator 6.6.1
 #

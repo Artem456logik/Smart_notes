@@ -63,7 +63,7 @@
       </layout>
      </item>
      <item>
-      <widget class="QPushButton" name="pushButton">
+      <widget class="QPushButton" name="save_note">
        <property name="text">
         <string>Зберегти замітку</string>
        </property>
@@ -77,7 +77,7 @@
       </widget>
      </item>
      <item>
-      <widget class="QListWidget" name="listWidget"/>
+      <widget class="QListWidget" name="tags_list"/>
      </item>
      <item>
       <widget class="QLineEdit" name="tag_search">
